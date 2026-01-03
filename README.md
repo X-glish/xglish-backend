@@ -1,5 +1,9 @@
 # Xglish Backend
 
+<p align="center">
+  <img src="docs/images/xglish_showcase_collage.png" width="800px" alt="Xglish Terminal Showcase">
+</p>
+
 This directory contains the Python backend service for the Xglish Safari Extension. It acts as a local server that processes text for Hinglish mixing, transliteration, and Romanization.
 
 ## Architecture
