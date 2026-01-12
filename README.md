@@ -126,7 +126,6 @@ This project relies on and builds upon the excellent work of several open-source
 *   **[IndicTrans2](https://github.com/AI4Bharat/IndicTrans2)**: For state-of-the-art English-Indic translation models.
 *   **[Aksharamukha](https://github.com/virtualvinodh/aksharamukha)**: For script conversion and Romanization logic.
 *   **[LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)**: For offline translation support.
-*   **[IndicEn](https://github.com/subins2000/indicen)**: foundational work on Indic-English transliteration that inspired parts of this project.
 
 We are grateful to the maintainers of these projects for their contributions to the NLP ecosystem.
 
